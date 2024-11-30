@@ -2,7 +2,7 @@
 
 ###
 
-<img src="" alt="Snake animation" />
+<img src="/artboard" alt="banner" />
 
 ###
 
