@@ -20,3 +20,87 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/cr-codez/cr-codez/output/snake.svg" alt="Snake animation" />
+
+# CLASSIFIED DESIGN OPERATIONS
+==============================================
+
+## NAME
+---------------
+
+AHMED ALI
+
+## TRADE
+------
+
+UI/UX Designer & Front-End Developer
+
+## LOCATION
+------------
+
+Pakistan
+
+
+## BRIEFING
+-------------------------
+
+Highly skilled UI/UX Designer and Front-End Developer with expertise in crafting responsive, user-centered designs and developing high-performance web applications using HTML, CSS, and JS.
+
+### AREA OF EXPERTISE
+
+* Responsive Design
+* Web Design
+* Front-End Development
+* UI/UX Design
+* Website Design
+
+### SKILLS
+
+* UI/UX Design (Figma)
+* Graphic Design
+* Brand Design
+* HTML
+* CSS
+* JS
+
+## RECON AUTH
+-----------------------
+
+Stay updated on my adventures:
+
+* [Twitter](#)
+* [LinkedIn](#)
+* [Behance](#)
+* [Dribbble](#)
+
+
+## CLASSIFIED PROJECTS
+-----------------------------
+
+### PROJECT 1
+
+[Project 1: Classified](#)
+
+### PROJECT 2
+
+[Project 2: Eyes Only](#)
+
+### PROJECT 3
+
+[Project 3: Top Secret](#)
+
+
+## DEPLOYMENT HISTORY
+---------------------------
+
+* [Your Work Experience]
+
+## AWARDS AND DECORATIONS
+---------------------------------
+
+* [Your Achievements]
+
+
+## SECURITY CLEARANCE
+---------------------------
+
+This message will self-destruct in 5 seconds.
