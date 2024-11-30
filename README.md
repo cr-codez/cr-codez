@@ -28,4 +28,14 @@
 
 <img src="https://raw.githubusercontent.com/cr-codez/cr-codez/output/snake.svg" alt="Snake animation" />
 
-###
+
+<div >
+    <img class="logo" src="logo.png" alt="Logo">
+    <div class="header">
+        <h1>cr-codez</h1>
+    </div>
+    <div class="description">
+        <p>This is my profile.</p>
+    </div>
+</div>
+
