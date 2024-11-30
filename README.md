@@ -2,7 +2,7 @@
 
 ###
 
-<img src="/artboard" alt="banner" />
+<img src="https://github.com/cr-codez/cr-codez/blob/main/Artboard%20%E2%80%93%208.png" alt="banner" />
 
 ###
 
