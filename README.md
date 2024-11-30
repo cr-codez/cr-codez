@@ -6,12 +6,8 @@
 
 ###
 
-<img align="right" height="133" src="https://drive.google.com/file/d/1pBZQm4GLSL5WTLNeX2Lfxq9XfhLXT-iR/view?usp=drive_link"  />
-
-###
 
 <br clear="both">
-
 
 
 <h1>CLASSIFIED DESIGN OPERATIONS</h1>
